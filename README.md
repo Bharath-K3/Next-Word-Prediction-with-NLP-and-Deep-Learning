@@ -12,4 +12,5 @@ Predictions-1.ipynb is the notebook that consists of the prediction model which 
 
 Run Notebook on Paperspace: https://console.paperspace.com/github.com/Bharath-K3/Next-Word-Prediction-with-NLP-and-Deep-Learning/blob/master/Next%20Word%20Prediction-1.ipynb
 
-Run Predictions on Paperspace: https://console.paperspace.com/github.com/Bharath-K3/Next-Word-Prediction-with-NLP-and-Deep-Learning/blob/master/Predictions-1.ipynb
+Run Predictions on Paperspace: 
+https://console.paperspace.com/github.com/Bharath-K3/Next-Word-Prediction-with-NLP-and-Deep-Learning/blob/master/Predictions-1.ipynb
